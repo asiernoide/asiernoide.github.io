@@ -11,61 +11,61 @@
 
 ### Languages
 
-<img title="HTML5" style="padding-right:5px;" align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/html5.svg"/>
+<img title="HTML5" style="padding-right:5px;" align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/html5.svg"/>
 
-<img title="CSS" style="padding-right:5px;" align="left" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/css3.svg"/>
+<img title="CSS" style="padding-right:5px;" align="left" alt="CSS" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/css3.svg"/>
 
-<img title="Sass" style="padding-right:5px;" align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/sass.svg"/>
+<img title="Sass" style="padding-right:5px;" align="left" alt="Sass" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/sass.svg"/>
 
-<img title="Python" style="padding-right:5px;" align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/python.svg"/>
+<img title="Python" style="padding-right:5px;" align="left" alt="Python" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/python.svg"/>
 
-<img title="Java" style="padding-right:5px;" align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java.png"/>
+<img title="Java" style="padding-right:5px;" align="left" alt="Java" width="35px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java.png"/>
 
-<img title="Haskell" style="padding-right:5px;" align="left" alt="Haskell" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/haskell.svg"/>
+<img title="Haskell" style="padding-right:5px;" align="left" alt="Haskell" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/haskell.svg"/>
 
-<img title="C#" style="padding-right:5px;" align="left" alt="CSharp" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/csharp.svg"/>
+<img title="C#" style="padding-right:5px;" align="left" alt="CSharp" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/csharp.svg"/>
 
-<img title="C++" style="padding-right:5px;" align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/cplusplus.svg"/>
+<img title="C++" style="padding-right:5px;" align="left" alt="C++" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/cplusplus.svg"/>
 
-<img title="C" style="padding-right:5px;" align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/c.svg"/>
+<img title="C" style="padding-right:5px;" align="left" alt="C" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/c.svg"/>
 
-<img title="R" style="padding-right:5px;" align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/r.svg"/>
+<img title="R" style="padding-right:5px;" align="left" alt="R" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/r.svg"/>
 
-<img title="Markdown" style="padding-right:5px;" align="left" alt="Markdown" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/markdown.svg"/>
+<img title="Markdown" style="padding-right:5px;" align="left" alt="Markdown" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/markdown.svg"/>
 
-<img title="Bash" style="padding-right:5px;" align="left" alt="Bash" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/gnubash.svg"/>
+<img title="Bash" style="padding-right:5px;" align="left" alt="Bash" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/gnubash.svg"/>
 
 <br/>
 <br/>
 
 ### Frameworks
 
-<img title="Django" style="padding-right:5px;" align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/django.svg"/>
+<img title="Django" style="padding-right:5px;" align="left" alt="Django" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/django.svg"/>
 
-<img title="FastAPI" style="padding-right:5px;" align="left" alt="FastAPI" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/fastapi.svg"/>
+<img title="FastAPI" style="padding-right:5px;" align="left" alt="FastAPI" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/fastapi.svg"/>
 
-<img title="Jinja" style="padding-right:5px;" align="left" alt="Jinja" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/jinja.svg"/>
+<img title="Jinja" style="padding-right:5px;" align="left" alt="Jinja" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/jinja.svg"/>
 
-<img title="Spring" style="padding-right:5px;" align="left" alt="Spring" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/spring.svg"/>
+<img title="Spring" style="padding-right:5px;" align="left" alt="Spring" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/spring.svg"/>
 
-<img title=".NET" style="padding-right:5px;" align="left" alt=".NET" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/dotnet.svg"/>
+<img title=".NET" style="padding-right:5px;" align="left" alt=".NET" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/dotnet.svg"/>
 
 <br/>
 <br/>
 
 ### Databases
 
-<img title="Microsoft SQL Server" style="padding-right:5px;" align="left" alt="MicrosoftSQLServer" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/microsoftsqlserver.svg"/>
+<img title="Microsoft SQL Server" style="padding-right:5px;" align="left" alt="MicrosoftSQLServer" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/microsoftsqlserver.svg"/>
 
-<img title="MySQL" style="padding-right:10px;" align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/mysql.svg"/>
+<img title="MySQL" style="padding-right:10px;" align="left" alt="MySQL" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/mysql.svg"/>
 
-<img title="JavaDB (Apache Derby)" style="padding-right:5px;" align="left" alt="ApacheDerby" width="26px" src="https://db.apache.org/derby/logo/final_derbylogo.svg"/>
+<img title="JavaDB (Apache Derby)" style="padding-right:5px;" align="left" alt="ApacheDerby" width="35px" src="https://db.apache.org/derby/logo/final_derbylogo.svg"/>
 
-<img title="MongoDB" style="padding-right:5px;" align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/mongodb.svg"/>
+<img title="MongoDB" style="padding-right:5px;" align="left" alt="MongoDB" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/mongodb.svg"/>
 
-<img title="Amazon Web Services" style="padding-right:5px;" align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/amazonaws.svg"/>
+<img title="Amazon Web Services" style="padding-right:5px;" align="left" alt="AWS" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/amazonaws.svg"/>
 
-<img title="Google Cloud Platform" style="padding-right:5px;" align="left" alt="GoogleCloudPlatform" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/googlecloud.svg"/>
+<img title="Google Cloud Platform" style="padding-right:5px;" align="left" alt="GoogleCloudPlatform" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/googlecloud.svg"/>
 
 
 <br/>
@@ -73,53 +73,52 @@
 
 ### IDEs
 
-<img title="Visual Studio Code" style="padding-right:5px;" align="left" alt="VSCode" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/visualstudiocode.svg"/>
+<img title="Visual Studio Code" style="padding-right:5px;" align="left" alt="VSCode" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/visualstudiocode.svg"/>
 
-<img title="IntelliJ Idea" style="padding-right:5px;" align="left" alt="IntelliJ" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/intellijidea.svg"/>
+<img title="IntelliJ Idea" style="padding-right:5px;" align="left" alt="IntelliJ" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/intellijidea.svg"/>
 
-<img title="PyCharm" style="padding-right:5px;" align="left" alt="PyCharm" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/pycharm.svg"/>
+<img title="PyCharm" style="padding-right:5px;" align="left" alt="PyCharm" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/pycharm.svg"/>
 
-<img title="CLion" style="padding-right:5px;" align="left" alt="CLion" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/clion.svg"/>
+<img title="CLion" style="padding-right:5px;" align="left" alt="CLion" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/clion.svg"/>
 
-<img title="Neovim" style="padding-right:5px;" align="left" alt="Neovim" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/neovim.svg"/>
+<img title="Neovim" style="padding-right:5px;" align="left" alt="Neovim" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/neovim.svg"/>
 
-<img title="Eclipse" style="padding-right:5px;" align="left" alt="Eclipse" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/eclipseide.svg"/>
+<img title="Eclipse" style="padding-right:5px;" align="left" alt="Eclipse" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/eclipseide.svg"/>
 
-<img title="NetBeans" style="padding-right:5px;" align="left" alt="NetBeans" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/apachenetbeanside.svg"/>
+<img title="NetBeans" style="padding-right:5px;" align="left" alt="NetBeans" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/apachenetbeanside.svg"/>
 
-<img title="Visual Studio" style="padding-right:5px;" align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/visualstudio.svg"/>
+<img title="Visual Studio" style="padding-right:5px;" align="left" alt="Visual Studio" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/visualstudio.svg"/>
 
 <br/>
 <br/>
 
 ### Tools
 
-<img title="GitHub" style="padding-right:5px;" align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/github.svg"/>
+<img title="GitHub" style="padding-right:5px;" align="left" alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/github.svg"/>
 
-<img title="GitLab" style="padding-right:5px;" align="left" alt="GitLab" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/gitlab.svg"/>
+<img title="GitLab" style="padding-right:5px;" align="left" alt="GitLab" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/gitlab.svg"/>
 
-<img title="Trello" style="padding-right:5px;" align="left" alt="Trello" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/trello.svg"/>
+<img title="Trello" style="padding-right:5px;" align="left" alt="Trello" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/trello.svg"/>
 
-<img title="WordPress" style="padding-right:5px;" align="left" alt="WordPress" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/wordpress.svg"/>
+<img title="WordPress" style="padding-right:5px;" align="left" alt="WordPress" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/wordpress.svg"/>
 
-<img title="Discord" style="padding-right:5px;" align="left" alt="Discord" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/discord.svg"/>
+<img title="Discord" style="padding-right:5px;" align="left" alt="Discord" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/discord.svg"/>
 
-<img title="Telegram" style="padding-right:5px;" align="left" alt="Telegram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/telegram.svg"/>
+<img title="Telegram" style="padding-right:5px;" align="left" alt="Telegram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/telegram.svg"/>
 
-<img title="Google Meet" style="padding-right:5px;" align="left" alt="GoogleMeet" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/googlemeet.svg"/>
+<img title="Google Meet" style="padding-right:5px;" align="left" alt="GoogleMeet" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/googlemeet.svg"/>
 
-<img title="Microsoft Teams" style="padding-right:5px;" align="left" alt="MicrosoftTeams" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/microsoftteams.svg"/>
+<img title="Microsoft Teams" style="padding-right:5px;" align="left" alt="MicrosoftTeams" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/microsoftteams.svg"/>
 
-<img title="Netlify" style="padding-right:5px;" align="left" alt="Netlify" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/netlify.svg"/>
+<img title="Netlify" style="padding-right:5px;" align="left" alt="Netlify" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/netlify.svg"/>
 
-<img title="diagrams.net" style="padding-right:5px;" align="left" alt="diagrams.net" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/diagramsdotnet.svg"/>
+<img title="diagrams.net" style="padding-right:5px;" align="left" alt="diagrams.net" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/diagramsdotnet.svg"/>
 
-<img title="Google Colab" style="padding-right:5px;" align="left" alt="GoogleColab" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/googlecolab.svg"/>
+<img title="Google Colab" style="padding-right:5px;" align="left" alt="GoogleColab" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/googlecolab.svg"/>
 
-<img title="VirtualBox" style="padding-right:5px;" align="left" alt="VirtualBox" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/virtualbox.svg"/>
+<img title="VirtualBox" style="padding-right:5px;" align="left" alt="VirtualBox" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/virtualbox.svg"/>
 
-<img title="VMware" style="padding-right:5px;" align="left" alt="VMware" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/vmware.svg"/>
-
+<img title="VMware" style="padding-right:5px;" align="left" alt="VMware" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/vmware.svg"/>
 
 <br/>
 <br/>
