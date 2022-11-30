@@ -18,14 +18,14 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">Welcome ^^</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      <a href="{{ site.github.owner_url }}" class="btn">View my profile</a>
-      {% if site.show_downloads %}
-        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
-        <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
-      {% endif %}
+      <a href="{{ site.github.owner_url }}" class="btn">View my GitHub profile</a>
     </header>
 
     <main id="content" class="main-content" role="main">
+      <img src="../assets/me.jpg" alt="Photo of me" style="display: block; margin-left: auto; margin-right: auto; width: 20%;">
+      
+      <br/>
+      
       {{ content }}
 
       <footer class="site-footer">
