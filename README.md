@@ -125,4 +125,5 @@
 
 ## Attachments
 
-- Rendered view for a personal Minecraft Paper server (with plugins) that I hosted in a Google Cloud Platform instance (webpage deployed in Netlify):  <https://sakuracraftviewer.netlify.app>
+- Rendered view for a personal [Minecraft PaperMC](https://papermc.io) server (with plugins) that I hosted in a Google Cloud Platform instance (webpage deployed in Netlify): <https://sakuracraftviewer.netlify.app>
+- Very simple web application I made with FastAPI for generating initial D&D character stats, which I deployed using [Render](https://render.com): <https://dndstats.onrender.com>
