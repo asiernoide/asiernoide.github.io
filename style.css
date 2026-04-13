@@ -361,6 +361,7 @@ h4 {
     color: inherit;
 }
 
+.cert-card:link,
 .cert-card:visited,
 .cert-card:active,
 .cert-card:focus {
