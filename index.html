@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Asier Gallego</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:ital,wght@0,300;0,400;0,600;1,300&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<header>
+    <div class="container nav">
+        <h1>Asier Gallego</h1>
+        <button id="theme-toggle" aria-label="Toggle theme">🌙</button>
+    </div>
+</header>
+
+<section class="hero container">
+    <h2>Software Engineer</h2>
+    <p>
+        I build end-to-end data and ML systems — from data pipelines to production-ready models.
+    </p>
+    <p class="sub">
+        Focused on automation, optimization, and real-world impact.
+    </p>
+    <div class="buttons">
+        <a href="#projects">View Projects</a>
+        <a href="https://github.com/asiernoide" target="_blank">GitHub</a>
+    </div>
+</section>
+
+<section class="container fade">
+    <h2>About</h2>
+    <p>
+        I'm a Software Engineer based in Málaga, specialized in Data Engineering and Machine Learning, currently working on production systems involving data pipelines and predictive models.
+    </p>
+    <p>
+        I have a strong interest in building complete intelligent systems — from data acquisition and processing to model evaluation and deployment. Lately diving deep into Generative AI, LLMs and RAG architectures.
+    </p>
+    <p>
+        I tend to deeply explore systems, optimize workflows, and automate everything that can be automated.
+    </p>
+</section>
+
+<section class="container fade">
+    <h2>Experience</h2>
+    <div class="card">
+        <div class="card-header">
+            <div>
+                <h3>Software Engineer – Data / Machine Learning</h3>
+                <p class="company">Capgemini Spain · Málaga</p>
+            </div>
+            <span class="date-badge">Sep 2023 – Present</span>
+        </div>
+        <ul>
+            <li>Lead developer in a Machine Learning project, collaborating closely with client teams using agile methodologies</li>
+            <li>Designed ETL pipelines and predictive models using Python (Pandas, Scikit-learn, Keras) and Microsoft SQL Server</li>
+            <li>Processed large datasets and optimized database access with SQLAlchemy and pyodbc</li>
+            <li>Contributed to system architecture and technical decisions</li>
+            <li>Developed enterprise applications using Power Apps and Power Automate, integrating data via Dataverse and SharePoint</li>
+        </ul>
+    </div>
+    <div class="card">
+        <div class="card-header">
+            <div>
+                <h3>Internship</h3>
+                <p class="company">Capgemini Spain · Málaga</p>
+            </div>
+            <span class="date-badge">Feb 2023 – Jun 2023</span>
+        </div>
+        <ul>
+            <li>Training in Power Platform and ASP.NET development</li>
+            <li>Exposure to enterprise development workflows and agile environments</li>
+        </ul>
+    </div>
+</section>
+
+<section class="container fade">
+    <h2>Education</h2>
+    <div class="timeline">
+        <div class="timeline-item">
+            <div class="timeline-dot"></div>
+            <div class="card timeline-card">
+                <div class="card-header">
+                    <div>
+                        <h3>MSc in Software Engineering and Artificial Intelligence</h3>
+                        <p class="company">University of Málaga (UMA)</p>
+                    </div>
+                    <span class="date-badge current">Oct 2025 – Present</span>
+                </div>
+                <p class="timeline-detail">Postgraduate specialization combining advanced software engineering with applied AI and machine learning.</p>
+            </div>
+        </div>
+        <div class="timeline-item">
+            <div class="timeline-dot"></div>
+            <div class="card timeline-card">
+                <div class="card-header">
+                    <div>
+                        <h3>BSc in Software Engineering</h3>
+                        <p class="company">University of Málaga (UMA)</p>
+                    </div>
+                    <span class="date-badge">Oct 2019 – Jun 2024</span>
+                </div>
+                <p class="timeline-detail">Bachelor's degree focused on software design, development, and engineering fundamentals. Final thesis: RAG-Refiner, an end-to-end Retrieval-Augmented Generation system.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="projects" class="container fade">
+    <h2>Projects</h2>
+
+    <div class="card">
+        <div class="card-header">
+            <h3>RAG-Refiner</h3>
+            <span class="tag">Bachelor Thesis</span>
+        </div>
+        <p>
+            End-to-end RAG system using LangChain and local LLMs (LLaMA 2), optimized through quantization.
+        </p>
+        <ul>
+            <li>Web scraping, semantic retrieval with embeddings and LLM integration</li>
+            <li>Custom evaluation framework with metrics to assess response quality</li>
+            <li>Reduced hallucinations vs baseline</li>
+        </ul>
+        <a class="card-link" href="https://github.com/asiernoide/RAG-Refiner" target="_blank">View on GitHub →</a>
+    </div>
+
+    <div class="card">
+        <div class="card-header">
+            <h3>SteamPredictor</h3>
+            <span class="tag in-progress">In Progress</span>
+        </div>
+        <p>
+            ML system to predict game discounts and pricing trends using historical data.
+        </p>
+        <ul>
+            <li>Time-based prediction models for discount intervals</li>
+            <li>Regression for price estimation</li>
+            <li>Data collection via APIs/web scraping and feature engineering</li>
+            <li>Context-aware features (events, developers, genres)</li>
+        </ul>
+        <p class="stack-note">Stack: Python · Pandas · Scikit-learn · MongoDB</p>
+    </div>
+
+</section>
+
+<section class="container fade">
+    <h2>Skills</h2>
+    <div class="skills-grid">
+        <div class="skill-group">
+            <h4>Data &amp; AI</h4>
+            <div class="skills">
+                <span>Python</span>
+                <span>Pandas</span>
+                <span>NumPy</span>
+                <span>Scikit-learn</span>
+                <span>Keras</span>
+                <span>ETL Pipelines</span>
+                <span>LangChain</span>
+                <span>RAG Systems</span>
+                <span>LLMs</span>
+            </div>
+        </div>
+        <div class="skill-group">
+            <h4>Data Storage</h4>
+            <div class="skills">
+                <span>SQL Server</span>
+                <span>SQLAlchemy</span>
+                <span>pyodbc</span>
+                <span>MongoDB</span>
+            </div>
+        </div>
+        <div class="skill-group">
+            <h4>Tools &amp; Platforms</h4>
+            <div class="skills">
+                <span>Git</span>
+                <span>Linux / Bash</span>
+                <span>Power Apps</span>
+                <span>Power Automate</span>
+                <span>Dataverse</span>
+                <span>SharePoint</span>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="container fade">
+    <h2>Certifications</h2>
+    <div class="certs-grid">
+        <div class="cert-card">
+            <div class="cert-issuer">IBM</div>
+            <p class="cert-name">Machine Learning with Python <span class="cert-honor">with honors</span></p>
+            <span class="cert-date">Jan 2025</span>
+        </div>
+        <div class="cert-card">
+            <div class="cert-issuer">IBM</div>
+            <p class="cert-name">Introduction to Deep Learning &amp; Neural Networks with Keras</p>
+            <span class="cert-date">Feb 2025</span>
+        </div>
+        <div class="cert-card">
+            <div class="cert-issuer">Google Cloud</div>
+            <p class="cert-name">Big Data and Machine Learning Fundamentals</p>
+            <span class="cert-date">May 2025</span>
+        </div>
+        <div class="cert-card">
+            <div class="cert-issuer">Microsoft</div>
+            <p class="cert-name">Azure Cosmos DB</p>
+            <span class="cert-date">Dec 2023</span>
+        </div>
+        <div class="cert-card">
+            <div class="cert-issuer">ACLES</div>
+            <p class="cert-name">B2 English Certificate</p>
+            <span class="cert-date">Jun 2017</span>
+        </div>
+    </div>
+</section>
+
+<footer class="container fade">
+    <h2>Contact</h2>
+    <div class="contact">
+        <a href="https://github.com/asiernoide" target="_blank">GitHub</a>
+        <a href="https://www.linkedin.com/in/asiergallego/" target="_blank">LinkedIn</a>
+        <a href="mailto:">Email</a>
+    </div>
+    <p class="footer-text">© 2026 Asier Gallego</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
