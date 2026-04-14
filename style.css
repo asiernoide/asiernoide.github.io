@@ -258,6 +258,16 @@ h4 {
     color: #7a5200;
 }
 
+.tag.uni {
+    background: #1e2a1e;
+    color: #7ec87e;
+}
+
+.light .tag.uni {
+    background: #e6f4e6;
+    color: #2d6e2d;
+}
+
 /* Card links */
 .card-link {
     display: inline-block;
