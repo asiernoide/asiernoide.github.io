@@ -236,7 +236,8 @@ h4 {
 }
 
 /* Inline text links */
-.link {
+.link,
+.link:visited {
     color: var(--accent);
     text-decoration: none;
     border-bottom: 1px solid transparent;
