@@ -152,6 +152,19 @@ h4 {
     border-color: var(--text);
 }
 
+/* Download CV button — filled accent style */
+.btn-download {
+    background: var(--accent) !important;
+    color: var(--bg) !important;
+    border-color: var(--accent) !important;
+}
+ 
+.btn-download:hover {
+    background: var(--accent-muted) !important;
+    border-color: var(--accent-muted) !important;
+    color: #fff !important;
+}
+
 /* CARDS */
 .card {
     background: var(--card);
@@ -443,6 +456,18 @@ footer.container {
 .contact a:hover {
     color: var(--accent);
     border-color: var(--accent);
+}
+
+/* Override for btn-download inside .contact */
+.contact .btn-download {
+    border-bottom: none;
+    padding: 7px 14px;
+    border-radius: 4px;
+    border: 1px solid var(--accent) !important;
+}
+ 
+.contact .btn-download:hover {
+    color: #fff !important;
 }
 
 .footer-text {
