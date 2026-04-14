@@ -235,6 +235,18 @@ h4 {
     margin-top: 12px !important;
 }
 
+/* Inline text links */
+.link {
+    color: var(--accent);
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: border-color 0.2s;
+}
+
+.link:hover {
+    border-bottom-color: var(--accent);
+}
+
 /* Tags */
 .tag {
     font-family: 'IBM Plex Mono', monospace;
